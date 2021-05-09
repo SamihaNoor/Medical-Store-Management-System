@@ -1,0 +1,4 @@
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Services\bin\Debug\Services.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Services\bin\Debug\Services.pdb
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Services\obj\Debug\Services.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Services\obj\Debug\Services.pdb

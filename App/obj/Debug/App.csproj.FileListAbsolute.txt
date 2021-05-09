@@ -1,0 +1,384 @@
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\App.exe.config
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\App.exe
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\App.pdb
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.Core.dll
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.Home.resources
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.LoginForm.resources
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.ManageEmps.resources
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.ManageMeds.resources
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.Properties.Resources.resources
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.Sales.resources
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.csproj.GenerateResource.Cache
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.exe
+G:\19-20~Fall\C#\Project 2.0\Medical Store\App\obj\Debug\App.pdb
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\App.exe.config
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.exe
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.pdb
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\App.exe
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\App.pdb
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.Core.dll
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.Home.resources
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.LoginForm.resources
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.ManageEmps.resources
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.ManageMeds.resources
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.Properties.Resources.resources
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.Sales.resources
+G:\19-20~Fall\C#\Project 4.0\Medical Store\App\obj\Debug\App.csproj.GenerateResource.Cache
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\App.exe.config
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.exe
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.pdb
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\App.exe
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\App.pdb
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.Core.dll
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.Home.resources
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.LoginForm.resources
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.ManageEmps.resources
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.ManageMeds.resources
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.Properties.Resources.resources
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.Sales.resources
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.csproj.GenerateResource.Cache
+G:\19-20~Fall\C#\Project 5.0\Medical Store\App\obj\Debug\App.Settings.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\App.exe.config
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\App.exe
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\App.pdb
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.Core.dll
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.CustomerHistory.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.Home.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.LoginForm.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.ManageEmps.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.ManageMeds.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.Profits.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.Properties.Resources.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.Sales.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.SellingPoint.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.Settings.resources
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.csproj.GenerateResource.Cache
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.exe
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.pdb
+D:\Dropbox\C#\Project 5.1\Medical Store\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\App.exe.config
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\App.exe
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\App.pdb
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.Core.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.CustomerHistory.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.Home.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.LoginForm.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.ManageEmps.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.ManageMeds.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.Profits.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.Properties.Resources.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.Sales.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.SellingPoint.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.Settings.resources
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.csproj.GenerateResource.Cache
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.exe
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\App\obj\Debug\App.pdb
+I:\Project 5.1\Medical Store\App\bin\Debug\App.exe.config
+I:\Project 5.1\Medical Store\App\obj\Debug\App.exe
+I:\Project 5.1\Medical Store\App\obj\Debug\App.pdb
+I:\Project 5.1\Medical Store\App\bin\Debug\App.exe
+I:\Project 5.1\Medical Store\App\bin\Debug\App.pdb
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.Core.dll
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+I:\Project 5.1\Medical Store\App\bin\Debug\Bunifu_UI_v1.5.3.xml
+I:\Project 5.1\Medical Store\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+I:\Project 5.1\Medical Store\App\obj\Debug\App.CustomerHistory.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.Home.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.LoginForm.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.ManageEmps.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.ManageMeds.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.Profits.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.Properties.Resources.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.Sales.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.SellingPoint.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.Settings.resources
+I:\Project 5.1\Medical Store\App\obj\Debug\App.csproj.GenerateResource.Cache

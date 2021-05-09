@@ -1,0 +1,5 @@
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Repositories\bin\Debug\Repositories.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Repositories\bin\Debug\Repositories.pdb
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Repositories\obj\Debug\Repositories.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Repositories\obj\Debug\Repositories.pdb

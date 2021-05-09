@@ -1,0 +1,5 @@
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Interfaces\bin\Debug\Interfaces.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Interfaces\bin\Debug\Interfaces.pdb
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Interfaces\obj\Debug\Interfaces.dll
+D:\Dropbox\Sam Docs\Project 5.1\Medical Store\Interfaces\obj\Debug\Interfaces.pdb
